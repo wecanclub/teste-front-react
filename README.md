@@ -8,7 +8,7 @@ Seu objetivo é criar um simples web app que deve conter três páginas, login, 
 
 ### Pré-requisitos: 
  - A tela de login deve estar de acordo com [este](https://xd.adobe.com/view/fee42313-ac94-4459-95cf-9dc9eef258f7-abb7/) layout. O usuário não precisa logar,
- ao clicar no botão entra o usuário deve ser redirecionado para uma área logada.
+ ao clicar no botão entra. Ele deve ser redirecionado para uma área logada.
  - A área logada deve ser desenvolvida utilizando bootstrap.
  - Deve ser possível editar as informações de um usuário.
  
