@@ -13,5 +13,10 @@ Seu objetivo é criar um simples web app que deve conter três páginas, login, 
  - Deve ser possível editar as informações de um usuário.
  
  ### Informações adicionais:
-  - token: eyJpZCI6Imp0eTRkUUdHV014S21Pa3FYMEtUIiwic2VjcmV0IjoicDhUYnpacTNTdzZKOWUyMHM1MnJwTVlkQklGMlNNWUIifQ==
+  - API URL: https://api.wecanclub.app
+  - Authorization token: eyJpZCI6Imp0eTRkUUdHV014S21Pa3FYMEtUIiwic2VjcmV0IjoicDhUYnpacTNTdzZKOWUyMHM1MnJwTVlkQklGMlNNWUIifQ==
   - companyId: Jwx7C2RAekf1XZmUf9kX
+  
+ ### Autenticação e autorização
+ O token fornecido neste documento concede apenas as permissões necessárias para manipular o cadastro de usuários em uma empresa fictícia. O mesmo deve estar presente no header HTTP "authorization" de todas as requisições.
+ 
